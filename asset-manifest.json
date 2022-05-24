@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/curriculum/static/css/main.47367a6b.css",
+    "main.css": "/curriculum/static/css/main.b6dd9d8c.css",
     "main.js": "/curriculum/static/js/main.0c800f3c.js",
     "static/js/787.595c645d.chunk.js": "/curriculum/static/js/787.595c645d.chunk.js",
     "static/media/1.png": "/curriculum/static/media/1.1ecb7e62a69fa4ce7025.png",
     "static/media/MoniqueRDelbel_CV.pdf": "/curriculum/static/media/MoniqueRDelbel_CV.52a52e280893418f5101.pdf",
     "static/media/linkedin.png": "/curriculum/static/media/linkedin.9a1a7f8162140e296345.png",
     "index.html": "/curriculum/index.html",
-    "main.47367a6b.css.map": "/curriculum/static/css/main.47367a6b.css.map",
+    "main.b6dd9d8c.css.map": "/curriculum/static/css/main.b6dd9d8c.css.map",
     "main.0c800f3c.js.map": "/curriculum/static/js/main.0c800f3c.js.map",
     "787.595c645d.chunk.js.map": "/curriculum/static/js/787.595c645d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47367a6b.css",
+    "static/css/main.b6dd9d8c.css",
     "static/js/main.0c800f3c.js"
   ]
 }
