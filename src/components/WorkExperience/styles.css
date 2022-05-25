@@ -1,0 +1,36 @@
+.WorkExperience .carousel-caption {
+    text-align: left;
+    max-width: 460px;
+    position: relative;
+}
+.WorkExperience .CarouselImage img {
+    float: right;
+    margin-right: 15%;
+    height: 320px;
+}
+.WorkExperience .carousel-caption h3 small {
+    font-size: 0.5em;
+    color: #999;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .WorkExperience .carousel-caption {
+        left: 0;
+        right: 0;
+        padding: 2em;
+    }
+    .WorkExperience .carousel-caption h3 {
+        text-align: center;
+    }
+    .WorkExperience .CarouselImage img {
+        position: relative;
+        float: none;
+        margin-right: 0;
+        height: 240px;
+        margin: 0 auto;
+    }
+    .carousel-control-prev, .carousel-control-next {
+        display: none;
+    }
+}
