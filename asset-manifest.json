@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/curriculum/static/css/main.a62680b3.css",
-    "main.js": "/curriculum/static/js/main.712536a2.js",
+    "main.css": "/curriculum/static/css/main.ba6f8dbe.css",
+    "main.js": "/curriculum/static/js/main.2e0a89b4.js",
     "static/js/787.595c645d.chunk.js": "/curriculum/static/js/787.595c645d.chunk.js",
     "static/media/1.png": "/curriculum/static/media/1.1ecb7e62a69fa4ce7025.png",
     "static/media/MoniqueRDelbel_CV.pdf": "/curriculum/static/media/MoniqueRDelbel_CV.52a52e280893418f5101.pdf",
+    "static/media/4.png": "/curriculum/static/media/4.4e7957cd50c9cb4d84e1.png",
     "static/media/2.png": "/curriculum/static/media/2.bc201b70ed9f88489709.png",
     "static/media/3.png": "/curriculum/static/media/3.dd110a03cac90c841dc6.png",
+    "static/media/ufscar.png": "/curriculum/static/media/ufscar.17e065efe6b349a21133.png",
     "static/media/linkedin.png": "/curriculum/static/media/linkedin.9a1a7f8162140e296345.png",
     "index.html": "/curriculum/index.html",
-    "main.a62680b3.css.map": "/curriculum/static/css/main.a62680b3.css.map",
-    "main.712536a2.js.map": "/curriculum/static/js/main.712536a2.js.map",
+    "main.ba6f8dbe.css.map": "/curriculum/static/css/main.ba6f8dbe.css.map",
+    "main.2e0a89b4.js.map": "/curriculum/static/js/main.2e0a89b4.js.map",
     "787.595c645d.chunk.js.map": "/curriculum/static/js/787.595c645d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a62680b3.css",
-    "static/js/main.712536a2.js"
+    "static/css/main.ba6f8dbe.css",
+    "static/js/main.2e0a89b4.js"
   ]
 }
