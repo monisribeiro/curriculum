@@ -1,0 +1,14 @@
+.Education small {
+    color: #999;    
+}
+
+.Education img {
+    width: 120px;
+    margin: 1em auto;
+}
+
+@media only screen and (max-width: 600px) {
+    .Education .Education-card + .Education-card {
+        margin-top: 2em;
+    }
+}
