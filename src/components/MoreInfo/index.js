@@ -26,7 +26,7 @@ import profile from '../../assets/4.png';
                   Email: monisribeiro@gmail.com 
                 </li>
                 <li>
-                  Phone: +55 (15) 99703-1333 
+                  Phone: +1 (857) 328-6453 
                 </li>
               </ul>
             </Col>
