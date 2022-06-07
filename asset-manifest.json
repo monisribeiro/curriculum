@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/curriculum/static/css/main.ba6f8dbe.css",
-    "main.js": "/curriculum/static/js/main.2e0a89b4.js",
+    "main.js": "/curriculum/static/js/main.d01e3c18.js",
     "static/js/787.595c645d.chunk.js": "/curriculum/static/js/787.595c645d.chunk.js",
     "static/media/1.png": "/curriculum/static/media/1.1ecb7e62a69fa4ce7025.png",
     "static/media/MoniqueRDelbel_CV.pdf": "/curriculum/static/media/MoniqueRDelbel_CV.52a52e280893418f5101.pdf",
@@ -12,11 +12,11 @@
     "static/media/linkedin.png": "/curriculum/static/media/linkedin.9a1a7f8162140e296345.png",
     "index.html": "/curriculum/index.html",
     "main.ba6f8dbe.css.map": "/curriculum/static/css/main.ba6f8dbe.css.map",
-    "main.2e0a89b4.js.map": "/curriculum/static/js/main.2e0a89b4.js.map",
+    "main.d01e3c18.js.map": "/curriculum/static/js/main.d01e3c18.js.map",
     "787.595c645d.chunk.js.map": "/curriculum/static/js/787.595c645d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba6f8dbe.css",
-    "static/js/main.2e0a89b4.js"
+    "static/js/main.d01e3c18.js"
   ]
 }
