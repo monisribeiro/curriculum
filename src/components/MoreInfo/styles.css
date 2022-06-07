@@ -8,6 +8,11 @@
     justify-content: flex-end;
 }
 
+.MoreInfo .more-info-img img {
+    border-radius: 50%;
+    object-fit: cover;
+}
+ 
 .MoreInfo .more-info-texts {
     margin: 0 3em;
 }

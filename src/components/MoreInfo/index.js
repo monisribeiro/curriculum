@@ -1,6 +1,6 @@
 import { Col, Container, Image, Row } from 'react-bootstrap';
 import './styles.css';
-import profile from '../../assets/4.png';
+import profile from '../../assets/5.JPG';
 
   function MoreInfo() {
     return (
@@ -8,7 +8,7 @@ import profile from '../../assets/4.png';
         <Container className="text-start">
           <Row gap={5}>
             <Col className="more-info-img d-flex align-items-sm-center mx-3">
-              <Image src={profile} height={120} />
+              <Image src={profile} height={200}  width={200} />
             </Col>
             <Col className="more-info-texts">
               <h3 className="mx-3">About me</h3>
